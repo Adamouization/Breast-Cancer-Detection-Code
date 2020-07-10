@@ -23,6 +23,13 @@ Activate the virtual environment:
 source /cs/scratch/<username>/tf2/venv/bin/activate
 ```
 
+Create `output`and `save_models` directories to store the results:
+
+```
+mkdir output
+mkdir saved_models
+```
+
 `cd` into the `src` directory and run the code:
 
 ```
