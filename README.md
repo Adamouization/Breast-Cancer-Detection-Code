@@ -78,7 +78,7 @@ mkdir normal_cases
 * Now run the python script for processing the dataset and render it usable with Tensorflow and Keras:
 
 ```
-python3 ../../../src/data_manipulations/mini-MIAS-initial-pre-processing.py
+python3 ../../../src/dataset_processing_scripts/mini-MIAS-initial-pre-processing.py
 ```
 
 ### DDSM and CBIS-DDSM datasets
