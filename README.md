@@ -1,4 +1,4 @@
-# Breast Cancer Detection in Mammograms using Deep Learning Techniques - Common Pipeline Code
+# Breast Cancer Detection in Mammograms using Deep Learning Techniques - Common Pipeline Code [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3975093.svg)](https://doi.org/10.5281/zenodo.3975093) [![GitHub license](https://img.shields.io/github/license/Adamouization/Breast-Cancer-Detection-Code)](https://github.com/Adamouization/Breast-Cancer-Detection-Code/blob/master/LICENSE)
 
 Repository containing the code written in common for the **Breast Cancer Detection in Mammograms using Deep Learning Techniques** dissertation. This code was further extended individually by each group member to get results by testing new deep learning techniques.
 
