@@ -1,4 +1,6 @@
-# Breast-Cancer-Detection-Code
+# Breast Cancer Detection in Mammograms using Deep Learning Techniques - Common Pipeline Code
+
+Repository containing the code written in common for the **Breast Cancer Detection in Mammograms using Deep Learning Techniques** dissertation. This code was further extended individually by each group member to get results by testing new deep learning techniques.
 
 ## Usage on a GPU lab machine
 
@@ -93,3 +95,9 @@ python3 ../../../src/dataset_processing_scripts/mini-MIAS-initial-pre-processing
 These datasets are very large (exceeding 160GB) and more complex than the mini-MIAS dataset to use. Downloading and pre-processing them will therefore not be covered by this README. 
 
 Our generated CSV files to use these datasets can be found in the `/data/CBIS-DDSM` directory, but the mammograms will have to be downloaded separately. The DDSM dataset can be downloaded [here](http://www.eng.usf.edu/cvprg/Mammography/Database.html), while the CBIS-DDSM dataset can be downloaded [here](https://wiki.cancerimagingarchive.net/display/Public/CBIS-DDSM#5e40bd1f79d64f04b40cac57ceca9272).
+
+## Authors
+
+* Adam Jaamour
+* Ashay Patel
+* Shuen-Jen Chen
